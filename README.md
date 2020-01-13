@@ -15,7 +15,7 @@ JAVA HOMEWORK
 # 使用说明
 
 # 项目架构
-
+![架构图](https://raw.githubusercontent.com/Yenine/APPstore-HW5/master/系统功能框图.png)
 # 目录结构
 ```
 ├── frontend					// 前端子项目
